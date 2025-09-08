@@ -29,15 +29,12 @@ The purpose is to showcase **SQL skills in a real-world finance scenario**, whic
     - `get_monthly_gross_sales_for_customer.jpg`
     - `get_market_badge.jpg`
   - **SQL_Scripts/** (SQL scripts by module)
-    - `01_User_Defined_Functions.sql`
-    - `02_Gross_Sales_Report_Monthly.sql`
-    - `03_Total_Sales_Report.sql`
-    - `04_Stored_Procedures_Monthly_Gross.sql`
-    - `05_Stored_Procedure_Market_Badge.sql`
-  - **Docs/** (Optional explanations)
-    - `Project_Explanation.md`
-  - **Data/** (Optional sample data)
-    - `sample_data.sql`
+    - `01_customer_query.md`
+    - `02_Gross_Sales_Report_Monthly.md`
+    - `03_Total_Sales_Report.md`
+    - `04_Stored_Procedures_Monthly_Gross.md`
+    - `05_Stored_Procedure_Market_Badge.md`
+  
 
 
 
@@ -93,5 +90,11 @@ The purpose is to showcase **SQL skills in a real-world finance scenario**, whic
 ![Market Badge Demo](screenshots/get_market_badge.jpg)
 
 ---
+
+## Connect with Me
+
+- **LinkedIn:** [www.linkedin.com/in/akshay-mangutkar](www.linkedin.com/in/akshay-mangutkar)
+- **LinkedInPost:** [www.linkedin.com/in/akshay-mangutkar](www.linkedin.com/in/akshay-mangutkar)
+- **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
 
