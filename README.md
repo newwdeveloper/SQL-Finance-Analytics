@@ -23,10 +23,11 @@ The purpose is to showcase **SQL skills in a real-world finance scenario**, whic
 - **Finance-SQL-Analytics/**
   - `README.md`
   - **screenshots/** (Query result screenshots)
-    - `01_customer_query.png`
-    - `02_monthly_product_sales.png`
-    - `03_total_sales_amount.png`
-    - `04_stored_procedure_demo.png`
+    - `customer_query.jpg`
+    - `monthly_product_sales.jpg`
+    - `total_monthly_sales.jpg`
+    - `get_monthly_gross_sales_for_customer.jpg`
+    - `get_market_badge.jpg`
   - **SQL_Scripts/** (SQL scripts by module)
     - `01_User_Defined_Functions.sql`
     - `02_Gross_Sales_Report_Monthly.sql`
