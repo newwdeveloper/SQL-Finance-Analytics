@@ -94,7 +94,7 @@ The purpose is to showcase **SQL skills in a real-world finance scenario**, whic
 ## Connect with Me
 
 - **LinkedIn:** [www.linkedin.com/in/akshay-mangutkar](www.linkedin.com/in/akshay-mangutkar)
-- **LinkedInPost:** [www.linkedin.com/in/akshay-mangutkar](www.linkedin.com/in/akshay-mangutkar)
-- **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
+- **LinkedInPost:** [[link](https://www.linkedin.com/feed/update/urn:li:activity:7370755952872132608/))
+- **Portfolio:** (https://codebasics.io/portfolio/Akshay-Mangutkar)]((https://codebasics.io/portfolio/Akshay-Mangutkar))
 
 
